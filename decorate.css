@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@300&family=Nanum+Gothic+Coding:wght@400;700&display=swap');
+
+.inform, h1, p {
+    display: block;
+    text-align: center;
+    margin: auto;
+    color: #00c4ff;
+}
+img {
+    width: 300px;
+    height: 300;
+    display: block;
+    justify-content: center;
+    margin: auto;
+    border: 5px solid #95e6ff;
+}
+.contact, h2{
+    text-align: center;
+    margin: 100;
+    display: block;
+    color: #00c4ff;
+}
+* {
+    background-color:#ebfaff;
+    color: #00c4ff;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
